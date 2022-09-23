@@ -5,7 +5,7 @@
             "chapter_heading": "प्रथमोऽध्याय: । (वमनकल्पम्)",
             "slogs": [
                 {
-                    "heading": "Introductory sloka",
+                    "heading": "वमनकल्पाध्याय: (Chapter on preparation of recipes for vamana/emesis)",
                     "audio_file": "1_1.mp3",
                     "slog": [
                         "अथातो वमनकल्पं व्याख्यास्याम: ।",
@@ -32,15 +32,14 @@
                             "title": "सन्धि:",
                             "explanation": [
                                 "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
-                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
-                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                                "स्माहुरात्रेयादयो - स्म + आहु: + आत्रेयादय: (सवर्णदीर्घसन्धि: - अक: सवर्णे दीर्घ:, विसर्गसन्धि: - विसर्जनीयस्य स: + ससजुषो रु:)"
                             ]
                         },
                         {
                             "title": "समास:",
                             "explanation": [
                                 "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
-                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                                "आत्रेयादय: - अत्रे: अपत्यं पुमान् आत्रेय: (केवलसमास:) आत्रेय: आदि: येषां  ते आत्रेयादय: (बहुव्रीहि समास:)"
                             ]
                         },
                         {
@@ -52,7 +51,7 @@
                     ]
                 },
                 {
-                    "heading": "Superiority of madana in vamana, trivrit in virechana and specificity of other herbs",
+                    "heading": "वमने मदनं श्रेष्ठम्, विरेचने त्रिवृन्मूलं श्रेष्ठम्, व्याधिवशाज्जीमूतादेर्विशिष्ठता (Superiority of madana in vamana, trivrit in virechana and specificity of other herbs) 1",
                     "audio_file": "1_2.mp3",
                     "slog": [
                         "वमने मदनं श्रेष्ठं, त्रिवृन्मूलं विरेचने ।",
@@ -68,7 +67,7 @@
                         {
                             "title": "भावार्थ:",
                             "explanation": [
-                                "Always (i.e. For all diseases, all kinds of patients and all the seasons) madana (Randia dumetorum) is the best for producing vamana (vomiting) and root of trivrt is the best for producing virechana (purgation). Other herbs mentioned in vamana kalpa (jeemuta etc.) and virechana kalpa (tilwaka etc.) are special to specific diseases."
+                                "Always (i.e. for all diseases, all kinds of patients and all the seasons) madana (Randia dumetorum) is the best for producing vamana (vomiting) and root of trivrt (Operculina turpethum) is the best for producing virechana (purgation). Other herbs mentioned in vamana kalpa (jeemuta - Luffa echinata etc.) and virechana kalpa (tilwaka - Jatropha curcas etc.) are special to specific diseases. "
                             ]
                         },
                         {
@@ -78,27 +77,25 @@
                         {
                             "title": "सन्धि:",
                             "explanation": [
-                                "त्रिवृन्मूलं - त्रिवृत् + मूलम् (अनुनासिकसन्धि: - यरोऽनुनासिकेऽनुनासिको वा)",
-                                "नित्यमन्यस्य - नित्यं + अन्यस्य (प्रकृतिभाव:)"
+                                "नित्यमन्यस्य - नित्यं + अन्यस्य (अनुस्वारसन्धि: - मोऽनुस्वार:)"
                             ]
                         },
                         {
                             "title": "समास:",
                             "explanation": [
-                                "त्रिवृन्मूलं - त्रिवृतस्य मूलम् (षष्ठी तत्पुरुष)"
-
+                                "त्रिवृन्मूलं - त्रिवृत: मूलम् त्रिवृन्मूलम् (षष्ठी तत्पुरुषसमास:)"
                             ]
                         },
                         {
                             "title": "तन्त्रयुक्ति:",
                             "explanation": [
-                                "प्रकरणाधिकरणम् (अथ मदनकल्प:), निर्णयम्, स्वसंज्ञा (वमने विरेचने), अपवर्गम् (अन्यस्य तु व्याधिविशेषेण विशिष्टता), अतीतावेक्षा (अन्यस्य तु)"
+                                "प्रकरणाधिकरणम् (अथ मदनकल्प:), निर्णयम्, स्वसंज्ञा (वमने विरेचने), अपवर्गम् (अन्यस्य तु व्याधिविशेषेण विशिष्टता), अतीतावेक्षा (अन्यस्य तु) "
                             ]
                         }
                     ]
                 },
                 {
-                    "heading": "मदनफलानां संस्कार: (Processing of madana phala)",
+                    "heading": "मदनफलानां संस्कार: (Processing of madana phala) 2-6",
                     "audio_file": "1_3.mp3",
                     "slog": [
                         "फलानि नातिपाण्डूनि न चातिहरितान्यपि ।",
@@ -109,7 +106,7 @@
                         "निष्कृष्टानि गतेऽष्टाहे शोषयेत्तान्यथातपे ॥ ४॥",
                         "तेषां तत: सुशुष्काणामुद्धृत्य फलपिप्पली: ।",
                         "दधिमध्वाज्यपललैर्मृदित्वा शोषयेत्पुन: ॥ ५ ॥",
-                        "तत: सुगुप्तं संस्थाप्य कार्यकाले प्रयोजयेत् ।"  
+                        "तत: सुगुप्तं संस्थाप्य कार्यकाले प्रयोजयेत् ।"
                     ],
                     "detail": [
                         {
@@ -121,7 +118,7 @@
                         {
                             "title": "भावार्थ:",
                             "explanation": [
-                                "Fruits of madana (Randia dumetorum) which are neither very white (due to over ripening) nor very green (due to unripening) are collected on an auspicious day between summer and spring. These fruits are subsequently cleansed well, placed inside a bundle of kusa grass and tied with threads. The bundle is coated with cow dung and when the same get dried, it is concealed inside a heap of corn. When these fruits become soft and start emitting pleasant smell like honey, they should be taken out and dried in the sun. Then the phalapippali (seeds of the madana fruits) are separated, soaked in curd/yoghurt, honey, ghee and meat soup and dried in the sun. Afterwards, it is preserved in a secret (safe) place to be used at the time of treatment (emetic therapy)."
+                                "Fruits of madana (Randia dumetorum) which are neither very white (due to over ripening) nor very green (due to unripening) are collected on an auspicious day between summer and spring. These fruits are subsequently cleansed well, placed inside a bundle of kusa grass (Desmostachya bipinnata) and tied with threads. The bundle is coated with cow dung and when the same get dried, it is concealed inside a heap of corn. When these fruits become soft and start emitting pleasant smell like honey, they should be taken out and dried in the sun. Then the phalapippali (seeds of the madana fruits) are separated, soaked in curd/yoghurt, honey, ghee and meat soup and dried in the sun. Afterwards, it is preserved in a secret (safe) place to be used at the time of treatment (emetic therapy)."
                             ]
                         },
                         {
@@ -131,28 +128,31 @@
                         {
                             "title": "सन्धि:",
                             "explanation": [
-                            "चातिहरितान्यपि - च + अतिहरितानि + अपि (सवर्णदीर्घसन्धि: - अक: सवर्णे दीर्घ: & यण् सन्धि: - इको यणचि)",
-                             "आदायाह्नि - आदाय + अह्नि (सवर्णदीर्घसन्धि: - अक: सवर्णे दीर्घ:)",
-                             "प्रशस्तर्क्षे - प्रशस्त + ऋर्क्षे (गुणसन्धि: - आद्गुण:)",
-                             "गोमयेनानु - गोमयेन + अनु (सवर्णदीर्घसन्धि: - अक: सवर्णे दीर्घ:)",
-                             "मध्विष्टगन्धानि - मधु + इष्टगन्धानि (यण् सन्धि: - इको यणचि)",
-                             "गतेऽष्टाहे - गते + अष्टाहे (पूर्वरूपसन्धि: - एङ: पदान्तादति)",
-                             "शोषयेत्तान्यथातपे - शोषयेत् + तानि + अथ + आतपे (प्रकृतिभाव:, सवर्णदीर्घसन्धि: - अक: सवर्णे दीर्घ: & यण् सन्धि: - इको यणचि)",
-                             "मध्वाज्य - मधु + आज्य (यण् सन्धि: - इको यणचि)",
-                             "पललैर्मृदित्वा - पललै: + मृदित्वा (रेफादेश: - ससजुषो रु:)"
+                                "चातिहरितान्यपि - च + अतिहरितानि + अपि (सवर्णदीर्घसन्धि: - अक: सवर्णे दीर्घ: & यण् सन्धि: - इको यणचि)",
+                                "आदायाह्नि - आदाय + अह्नि (सवर्णदीर्घसन्धि: - अक: सवर्णे दीर्घ:)",
+                                "कुशमुत्तोल्यां - कुशं + उत्तोल्याम् (अनुस्वारसन्धि: - मोऽनुस्वार:)",
+                                "गोमयेनानु - गोमयेन + अनु (सवर्णदीर्घसन्धि: - अक: सवर्णे दीर्घ:)",
+                                "गतेऽष्टाहे - गते + अष्टाहे (पूर्वरूपसन्धि: - एङ: पदान्तादति)",
+                                "शोषयेत्तान्यथातपे - शोषयेत् + तानि + अथ + आतपे (प्रकृतिभाव:, सवर्णदीर्घसन्धि: - अक: सवर्णे दीर्घ: & यण् सन्धि: - इको यणचि)",
+                                "दधिमध्वाज्यपललैर्मृदित्वा - दधिमध्वाज्यपललै: + मृदित्वा (विसर्गसन्धि: - विसर्जनीयस्य स: + ससजुषो रु:)"
                             ]
                         },
                         {
-                           "title": "समास:",
+                            "title": "समास:",
                             "explanation": [
-                                "ग्रीष्मवसन्तयो: - ग्रीष्मश्च वसन्तश्च तयो: (द्वन्द्व समास:)",
-                                "फलपिप्पली: - फलस्य पिप्पली (षष्ठी तत्पुरुष)"
+                                "प्रशस्तर्क्षे - प्रशस्तश्च असौ ऋक्षश्च प्रशस्तर्क्ष: (कर्मधारयसमास:) तस्मिन् प्रशस्तर्क्षे",
+                                "ग्रीष्मवसन्तयो: - ग्रीष्मश्च वसन्तश्च ग्रीष्मवसन्तौ (द्वन्द्वसमास:) तयो: ग्रीष्मवसन्तयो: ",
+                                "फलपिप्पली: - फलस्य पिप्पली: फलपिप्पल्य: (षष्ठी तत्पुरुषसमास:) ता: फलपिप्पली: ",
+                                "मध्विष्टगन्धानि -",
+                                "कुशवेष्टनात् - कुशेन वेष्टनात् कुशवेष्टनात् (तृतीया तत्पुरुषसमास:)",
+                                "दधिमध्वाज्यपललै: - दधि च मधु च आज्यं च पललं च दधिमध्वाज्यपललानि तै: दधिमध्वाज्यपललै: (द्वन्द्व समास:)",
+                                "सुगुप्तं - सुष्टु गुप्तं सुगुप्तम् (केवल समास:)"
                             ]
                         },
                         {
                             "title": "तन्त्रयुक्ति:",
                             "explanation": [
-                                "नियोगम्, विधानम् , समुच्चयम् (न चातिहरितान्यपि), वाक्यशेषम् (पललैर्मृदित्वा)"
+                                "नियोगम्, विधानम् , समुच्चयम् (न चातिहरितान्यपि), वाक्यशेषम् (पललैर्मृदित्वा) "
                             ]
                         }
                     ]
