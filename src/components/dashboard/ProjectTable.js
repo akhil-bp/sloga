@@ -64,7 +64,7 @@ const ProjectTables = (props) => {
         <CardBody>
           <CardTitle tag="h5">{json.chapters[props.id ?? 1].chapter_heading}</CardTitle>
           <CardSubtitle className="mb-2 text-muted" tag="h6">
-            Total slogs  - 10
+            Total slokas  - 3
           </CardSubtitle>
 
           <Table className="no-wrap mt-3 align-middle" responsive borderless>

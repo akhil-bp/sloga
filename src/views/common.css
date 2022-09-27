@@ -1,6 +1,28 @@
 @media only screen and (max-width: 600px) {
-
-    .mobile-CardTitle {
-      font-size: 15px !important;
-    }
+  .mobile-CardTitle {
+    font-size: 13px !important;
   }
+  .p-4 {
+    padding: 0.5rem !important;
+  }
+  h3 {
+    font-size: 14px !important;
+  }
+}
+.list-dot {
+  background: #1e2a35;
+  width: 13px;
+  height: 13px;
+  border-radius: 13px;
+  padding: 1px;
+  margin-right: 8px;
+  align-items: center;
+  font-size: 8px;
+  display: inline;
+  vertical-align: middle;
+}
+.d-flex.align-items-center.p-2 {
+  border: 1px solid #3270fa;
+  border-radius: 5px;
+  background: #3270fa17;
+}

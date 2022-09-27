@@ -67,12 +67,12 @@ const Starter = () => {
     <div>
       {/***Top Cards***/}
       <Row>
-        <Col sm="12" lg="12"  style={{marginBottom:'10px',textAlign:'center'}}>
+        <Col sm="12" lg="12" style={{ marginBottom: '10px', textAlign: 'center' }}>
           <CardTitle className="mobile-CardTitle" style={{ textTransform: "capitalize", fontWeight: '800' }} tag="h5">
-          ASHTANGA HRIDAYAM KALPASIDDHI STHANAM 
+            ASHTANGA HRIDAYAM KALPASIDDHI STHANAM
           </CardTitle>
           <CardTitle className="mobile-CardTitle" style={{ textTransform: "capitalize", fontWeight: '800' }} tag="h5">
-           (अष्टाङ्गहृदयम् कल्पसिद्धिस्थानम्)
+            (अष्टाङ्गहृदयम् कल्पसिद्धिस्थानम्)
           </CardTitle>
         </Col>
 

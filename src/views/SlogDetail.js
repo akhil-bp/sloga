@@ -90,7 +90,11 @@ const SlogDetail = () => {
           <Card>
             <CardImg alt="Card image cap" src={'/ayurvedic-remedies-for-cold-cough.png'} />
             <CardBody className="p-4">
-              <CardTitle style={{ textTransform: "capitalize", fontWeight: '800' }} tag="h5">{json.chapters[slogId].slogs[id].heading}</CardTitle>
+              <CardTitle style={{ fontWeight: '800' }} tag="h5">
+                <div class={"list-dot"}>ghj</div>
+                {json.chapters[slogId].slogs[id].heading}
+
+              </CardTitle>
               <Card>
                 <CardBody className="p-4" style={{ textAlign: 'left', boxShadow: '0 0 3px 0 rgb(0 0 0 / 20%)' }}>
                   {json.chapters[slogId].slogs[id].slog.map((item, i) => (
@@ -121,7 +125,7 @@ const SlogDetail = () => {
                       </div>
                       <div class="col-lg-10">
                         {item.explanation.map((exp) => (
-                          <div>{exp}</div>
+                          <div style={{ textAlign: 'justify' }}>{exp}</div>
                         ))}
                       </div>
                     </div>
