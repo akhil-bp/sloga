@@ -125,7 +125,7 @@ const SlogDetail = () => {
                       </div>
                       <div class="col-lg-10">
                         {item.explanation.map((exp) => (
-                          <div style={{ textAlign: 'justify' }}>{exp}</div>
+                          <div style={{ textAlign: (item.title === 'अन्वय:' || item.title === 'भावार्थ:') ? 'justify' : '' }}>{exp}</div>
                         ))}
                       </div>
                     </div>

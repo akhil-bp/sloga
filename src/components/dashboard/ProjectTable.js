@@ -94,8 +94,11 @@ const ProjectTables = (props) => {
                       } /> */}
                       <i className="bi bi-wallet"></i>
                       <div className="ms-3">
-                        <h6 className="mb-0">{tdata.heading}</h6>
-                        {/* <span className="text-muted">Label</span> */}
+                        <h6 className="mb-0">{tdata.heading.split('(')[0]}</h6>
+                        {tdata.heading.split('(')[1] &&
+                          // <h6 className="mb-0 " style={{ fontSize: '14px' }}>( {tdata.heading.split('(')[1]}</h6>
+                          <span className="text-muted">( {tdata.heading.split('(')[1]}</span>
+                        }
                       </div>
                     </div>
                   </td>
