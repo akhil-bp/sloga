@@ -3,6 +3,7 @@
         {
             "chapter_id": "1",
             "chapter_heading": "प्रथमोऽध्याय: । (वमनकल्पम्)",
+            "_chapter_heading": "vamanakalpam ",
             "slogs": [
                 {
                     "heading": "वमनकल्पाध्याय: (Chapter on preparation of recipes for vamana/emesis)",
@@ -164,6 +165,7 @@
         {
             "chapter_id": "2",
             "chapter_heading": "द्वितीयोऽध्याय: । (विरेचनकल्पम्)",
+            "_chapter_heading": "virechanakalpam ",
             "slogs": [
                 {
                     "heading": "Introductory sloka2",
@@ -311,6 +313,7 @@
         {
             "chapter_id": "3",
             "chapter_heading": "तृतीयोऽध्याय: । (वमनविरेचन व्यापत्सिद्धि:)",
+            "_chapter_heading": "vamanavirechana ",
             "slogs": [
                 {
                     "heading": "Introductory sloka",
@@ -458,6 +461,7 @@
         {
             "chapter_id": "4",
             "chapter_heading": "चतुर्थोऽध्याय: । (बस्तिकल्पम्)",
+            "_chapter_heading": "basthikalpam ",
             "slogs": [
                 {
                     "heading": "Introductory sloka",
@@ -605,6 +609,7 @@
         {
             "chapter_id": "5",
             "chapter_heading": "पञ्चमोऽध्याय: । (बस्तिव्यापत्सिद्धि:)",
+            "_chapter_heading": "basthikalpam ",
             "slogs": [
                 {
                     "heading": "Introductory sloka",
@@ -752,6 +757,7 @@
         {
             "chapter_id": "6",
             "chapter_heading": "षष्ठोऽध्याय: । (द्रव्यकल्पम्)",
+            "_chapter_heading": "drishyakalpam ",
             "slogs": [
                 {
                     "heading": "Introductory sloka",

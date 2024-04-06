@@ -1,6 +1,6 @@
 
-import { React, useEffect } from "react";
-import { Col, Row } from "reactstrap";
+import { React, useEffect, useState } from "react";
+import { Col, Row, FormGroup, Label, Input } from "reactstrap";
 import SalesChart from "../components/dashboard/SalesChart";
 import Feeds from "../components/dashboard/Feeds";
 import ProjectTables from "../components/dashboard/ProjectTable";
@@ -58,11 +58,34 @@ const BlogData = [
 
 const Starter = () => {
   let navigate = useNavigate();
+  const [jsonData, setJsonData] = useState({chapters:[]}) 
+  // const [TempJsonData, setTempJsonData] = useState(json) 
 
   useEffect(() => {
+    setJsonData(json)
     console.log(json)
   }, [])
 
+  const search = (txt)=>{
+   if(txt){
+     const newData =  json.chapters.filter((item)=>{
+        if(item.chapter_id === txt || item._chapter_heading.includes(txt)){
+          return item
+        }
+      })
+      let _jsonData = [jsonData];
+      _jsonData.chapters=newData
+      setJsonData(_jsonData)
+      console.log(newData)
+    }else
+      setJsonData(json)
+  }
+
+  const getStringBetweenParenthese = (inputString) => {
+    const regex = /\((.*?)\)/;
+    const match = regex.exec(inputString);
+    return match ? match[1] : null;
+  }
   return (
     <div>
       {/***Top Cards***/}
@@ -76,15 +99,31 @@ const Starter = () => {
           </CardTitle>
         </Col>
 
+        <Col sm="12" lg="12" style={{ marginBottom: '10px', textAlign: 'center' }}>
+          <FormGroup style={{padding: '10px 30px' }}>
+            {/* <Label for="searchfield">
+              Date
+            </Label> */}
+            <Input
+              id="searchfield"
+              name="searchfield"
+              placeholder="Type to search here"
+              type="text"
+              onChange={(e)=>search(e.target.value)}
+            />
+          </FormGroup>
+
+        </Col>
+
       </Row>
       <Row>
-        {json.chapters.map((chapter, i) => (
-          <Col key={i} style={{ cursor: 'pointer' }} sm="6" lg="6" onClick={() => navigate("/slog/" + i)}>
+        {jsonData.chapters.map((chapter, i) => (
+          <Col key={i} style={{ cursor: 'pointer' }} xs="4" sm="4" md="4" lg="4" xl="4" xxl="4" onClick={() => navigate("/slog/" + i)}>
             <TopCards
               bg="bg-light-success text-success"
               title="Profit"
               subtitle={"Total Slokas- " + (chapter.slogs.length + 1)}
-              earning={chapter.chapter_heading}
+              earning={getStringBetweenParenthese(chapter.chapter_heading)}
               icon="bi bi-wallet"
             />
           </Col>
