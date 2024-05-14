@@ -55,7 +55,7 @@ const BlogData = [
   // },
 ];
 
-const Starter = () => {
+const Gallery = () => {
   let navigate = useNavigate();
   const [jsonData, setJsonData] = useState({ chapters: [] })
   // const [TempJsonData, setTempJsonData] = useState(json) 
@@ -74,7 +74,7 @@ const Starter = () => {
     // return inputString;
   }
   return (
-    <div className="starter">
+    <div>
       <Row>
         <Col sm="12" lg="12" style={{ marginBottom: '10px', textAlign: 'center' }}>
           <CardTitle className="mobile-CardTitle" style={{ textTransform: "capitalize", fontWeight: '800' }} tag="h5">
@@ -85,46 +85,18 @@ const Starter = () => {
           </CardTitle>
         </Col>
       </Row>
-      {/* <Row>
+      <Row>
         {jsonData.chapters.map((chapter, i) => (
           <Col key={i} style={{ cursor: 'pointer', padding: '5px' }} xs="6" sm="6" md="4" lg="4" xl="4" xxl="4" onClick={() => navigate("/slog/" + i)}>
             <div class="card card-body" style={{ height: '100%', marginBottom: '0px' }}>
-              <h5 class="card-title">{getStringBetweenParenthese(chapter?.chapter_heading)}</h5>
+              <h5 class="card-title">{(i + 1) + '. ' + getStringBetweenParenthese(chapter?.chapter_heading)}</h5>
               <p class="card-text">{"Total Slokas- " + (chapter.slogs.length + 1)}</p>
             </div>
           </Col>
         ))}
-      </Row> */}
-      <Row>
-        <Col style={{ cursor: 'pointer', padding: '5px' }} xs="12" sm="12" md="12" lg="12" xl="12" xxl="12">
-          <div class="card card-body" style={{ height: '100%', marginBottom: '0px' , fontSize:'13px'}}>
-            <h5>About the app</h5>
-            Suthra is more than just a mobile application; it's your gateway to tranquility and mindfulness in the digital age. Developed with a deep understanding of ancient wisdom and modern technology, Suthra provides a curated collection of timeless sutras to inspire and uplift your spirit.
-            Whether you're seeking guidance on meditation, mindfulness, or personal growth, Suthra offers a diverse range of sutras from various spiritual traditions and philosophical schools. Each sutra is carefully selected to resonate with your inner journey and help you navigate life's challenges with grace and wisdom.
-          </div>
-        </Col>
-      </Row>
-      <Row>
-        <Col style={{ cursor: 'pointer', padding: '5px' }} xs="12" sm="12" md="12" lg="12" xl="12" xxl="12">
-          <div onClick={() => navigate("/gallery/")} class="card card-body" style={{ height: '100%', marginBottom: '0px', textAlign:'center' , fontSize:'13px'}}>
-            <h3>Chapters </h3>
-            <p style={{margin:'0'}}> {jsonData?.chapters?.length} Chapters</p>
-          </div>
-        </Col>
-        <Col style={{ cursor: 'pointer', padding: '5px' }} xs="12" sm="12" md="12" lg="12" xl="12" xxl="12">
-          <div onClick={() => navigate("/gallery/")} class="card card-body" style={{ height: '100%', marginBottom: '0px', textAlign:'center' , fontSize:'13px'}}>
-            <h3>Favorite</h3>
-            <p style={{margin:'0'}}> {jsonData?.chapters?.length} Chapters</p>
-          </div>
-        </Col>
-        <Col style={{ cursor: 'pointer', padding: '5px' }} xs="12" sm="12" md="12" lg="12" xl="12" xxl="12">
-          <div onClick={() => navigate("/about/")} class="card card-body" style={{ height: '100%', marginBottom: '0px', textAlign:'center' , fontSize:'13px'}}>
-            <h3 >About the author</h3>
-          </div>
-        </Col>
       </Row>
     </div>
   );
 };
 
-export default Starter;
+export default Gallery;

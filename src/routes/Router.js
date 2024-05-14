@@ -9,6 +9,7 @@ const FullLayout = lazy(() => import("../layouts/FullLayout.js"));
 /***** Pages ****/
 
 const Starter = lazy(() => import("../views/Starter.js"));
+const Gallery = lazy(() => import("../views/Gellery.js"));
 const About = lazy(() => import("../views/About.js"));
 const Alerts = lazy(() => import("../views/ui/Alerts"));
 const Badges = lazy(() => import("../views/ui/Badges"));
@@ -28,6 +29,7 @@ const ThemeRoutes = [
     children: [
       { path: "/", element: <Navigate to="/starter" /> },
       { path: "/starter", exact: true, element: <Starter /> },
+      { path: "/gallery", exact: true, element: <Gallery /> },
       { path: "/slog/:id", exact: true, element: <SlogList /> },
       { path: "/slog/:slogId/detail/:id", exact: true, element: <SlogDetail /> },
       { path: "/about", exact: true, element: <About /> },

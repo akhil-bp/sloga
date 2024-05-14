@@ -56,7 +56,7 @@ const SlogList = () => {
   }, [])
 
   return (
-    <div>
+    <div style={{margin:'-9px -15px'}}>
       {/***Top Cards***/}
       <Row>
         <Col lg="12">

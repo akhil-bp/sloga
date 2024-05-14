@@ -10,29 +10,21 @@ const About = () => {
         <Card>
           <CardTitle tag="h6" className="border-bottom p-3 mb-0">
             <i className="bi bi-bell me-2"> </i>
-            About Xtreme React
+            About the author
           </CardTitle>
           <CardBody className="p-4">
             <Row justify-content>
               <Col lg="8">
-                <h2 className="mt-4">Xtreme React Admin Pro Version</h2>
-                <h5 className=" mb-4">
-                  5 premium and highly customizable demo variations included in
-                  the package, with React Router 6, Redux Toolkit, Axios nd much
-                  more...
-                </h5>
-                <img
-                  src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-template-y.jpg"
-                  alt="my"
-                />
-                <Button
-                  className="mt-3"
-                  color="primary"
-                  href="https://www.wrappixel.com/templates/xtreme-react-redux-admin/?ref=33"
-                  target="_blank"
-                >
-                  Check Pro Version
-                </Button>
+                <h2 className="mt-4">Dr.Braivin Camly</h2>
+                <p style={{textAlign:'justify'}} className=" mb-4">
+                Dr.Braivin Camly is a passionate developer with over a decade of experience in creating innovative mobile applications. With a background in computer science and a keen interest in user experience design, John strives to craft apps that are both functional and visually appealing.
+
+                  Driven by a desire to make a positive impact, John founded Suthra with the vision of providing users with a seamless and intuitive way to discover and enjoy their favorite sutras. His dedication to excellence and commitment to continuous improvement are evident in every aspect of the app's design and functionality.
+
+                  When he's not coding or brainstorming new features for Suthra, John enjoys hiking in the great outdoors and experimenting with new recipes in the kitchen. He believes that a balanced life is essential for creativity and innovation, and strives to find harmony between his work and personal pursuits.
+
+                  Connect with John on LinkedIn or Twitter to learn more about his journey as an app developer and stay updated on the latest developments with Suthra.
+                </p>
               </Col>
             </Row>
           </CardBody>

@@ -1,0 +1,906 @@
+{
+    "chapters": [
+        {
+            "chapter_id": "1",
+            "chapter_heading": "प्रथमोऽध्याय: । (वमनकल्पम्)",
+            "_chapter_heading": "vamanakalpam ",
+            "slogs": [
+                {
+                    "heading": "वमनकल्पाध्याय: (Chapter on preparation of recipes for vamana/emesis)",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म ।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:)",
+                                "स्माहुरात्रेयादयो - स्म + आहु: + आत्रेयादय: (सवर्णदीर्घसन्धि:, विसर्गसन्धि:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं वमनकल्पम् (षष्ठी तत्पुरुषसमास:)",
+                                "आत्रेयादय: - अत्रे: अपत्यं पुमान् आत्रेय: (केवलसमास:) आत्रेय: आदि: येषां  ते आत्रेयादय: (बहुव्रीहि समास:)",
+                                "महर्षय: - महान्तश्च ते ऋषयश्च महर्षय: (कर्मधारयसमास:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "वमने मदनं श्रेष्ठम्, विरेचने त्रिवृन्मूलं श्रेष्ठम्, व्याधिवशाज्जीमूतादेर्विशिष्ठता (Superiority of madana in vamana, trivrit in virechana and specificity of other herbs) 1",
+                    "audio_file": "1_2.mp3",
+                    "slog": [
+                        "अथ मदनकल्प: ।",
+                        "वमने मदनं श्रेष्ठं, त्रिवृन्मूलं विरेचने ।",
+                        "नित्यमन्यस्य तु व्याधिविशेषेण विशिष्टता ॥ १ ॥"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "वमने मदनं नित्यं श्रेष्ठम् । विरेचने त्रिवृन्मूलं नित्यं श्रेष्ठम् । अन्यस्य तु व्याधिविशेषेण विशिष्टता ।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Always (i.e. for all diseases, all kinds of patients and all the seasons) madana (Randia dumetorum) is the best for producing vamana (vomiting) and root of trivrt (Operculina turpethum) is the best for producing virechana (purgation). Other herbs mentioned in vamana kalpa (jeemuta - Luffa echinata etc.) and virechana kalpa (tilwaka - Jatropha curcas etc.) are special to specific diseases. "
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "नित्यमन्यस्य - नित्यं + अन्यस्य (अनुस्वारसन्धि:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "त्रिवृन्मूलं - त्रिवृत: मूलम् त्रिवृन्मूलम् (षष्ठी तत्पुरुषसमास:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "प्रकरणाधिकरणम् (अथ मदनकल्प:), निर्णयम्, स्वसंज्ञा (वमने विरेचने), अपवर्गम् (अन्यस्य तु व्याधिविशेषेण विशिष्टता), अतीतावेक्षा (अन्यस्य तु) "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "मदनफलानां संस्कार: (Processing of madana phala) 2-6",
+                    "audio_file": "1_3.mp3",
+                    "slog": [
+                        "फलानि नातिपाण्डूनि न चातिहरितान्यपि ।",
+                        "आदायाह्नि प्रशस्तर्क्षे मध्ये ग्रीष्मवसन्तयो: ॥ २ ॥",
+                        "प्रमृज्य कुशमुत्तोल्यां क्षिप्त्वा बद्ध्वा  प्रलेपयेत् ।",
+                        "गोमयेनानु मुत्तोलीं धान्यमध्ये निधापयेत् ॥ ३॥",
+                        "मृदुभूतानि मध्विष्टगन्धानि कुशवेष्टनात् ।",
+                        "निष्कृष्टानि गतेऽष्टाहे शोषयेत्तान्यथातपे ॥ ४॥",
+                        "तेषां तत: सुशुष्काणामुद्धृत्य फलपिप्पली: ।",
+                        "दधिमध्वाज्यपललैर्मृदित्वा शोषयेत्पुन: ॥ ५ ॥",
+                        "तत: सुगुप्तं संस्थाप्य कार्यकाले प्रयोजयेत् ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "न अतिपाण्डूनि च अतिहरितानि अपि तानि फलानि अह्नि प्रशस्तर्क्षे मध्ये ग्रीष्मवसन्तयो: आदाय प्रमृज्य कुशमुत्तोल्यां क्षिप्त्वा बद्ध्वा मुत्तोलीं गोमयेन प्रलेपयेत् । अनु धान्यमध्ये निधापयेत् | अष्टाहे गते मृदुभूतानि मध्विष्टगन्धानि तानि कुशवेष्टनात् निष्कृष्टानि अथ आतपे शोषयेत् | तत: सुशुष्काणां तेषां फलपिप्पली: उद्धृत्य दधिमध्वाज्य पुन: शोषयेत् | तत: सुगुप्तं संस्थाप्य कार्यकाले प्रयोजयेत् ।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Fruits of madana (Randia dumetorum) which are neither very white (due to over ripening) nor very green (due to unripening) are collected on an auspicious day between summer and spring. These fruits are subsequently cleansed well, placed inside a bundle of kusa grass (Desmostachya bipinnata) and tied with threads. The bundle is coated with cow dung and when the same get dried, it is concealed inside a heap of corn. When these fruits become soft and start emitting pleasant smell like honey, they should be taken out and dried in the sun. Then the phalapippali (seeds of the madana fruits) are separated, soaked in curd/yoghurt, honey, ghee and meat soup and dried in the sun. Afterwards, it is preserved in a secret (safe) place to be used at the time of treatment (emetic therapy)."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "चातिहरितान्यपि - च + अतिहरितानि + अपि (सवर्णदीर्घसन्धि: & यण् सन्धि:)",
+                                "आदायाह्नि - आदाय + अह्नि (सवर्णदीर्घसन्धि:)",
+                                "कुशमुत्तोल्यां - कुशं + उत्तोल्याम् (अनुस्वारसन्धि:)",
+                                "गोमयेनानु - गोमयेन + अनु (सवर्णदीर्घसन्धि:)",
+                                "गतेऽष्टाहे - गते + अष्टाहे (पूर्वरूपसन्धि:)",
+                                "शोषयेत्तान्यथातपे - शोषयेत् + तानि + अथ + आतपे (प्रकृतिभाव:, सवर्णदीर्घसन्धि: & यण् सन्धि:)",
+                                "दधिमध्वाज्यपललैर्मृदित्वा - दधिमध्वाज्यपललै: + मृदित्वा (विसर्गसन्धि:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "प्रशस्तर्क्षे - प्रशस्तश्च असौ ऋक्षश्च प्रशस्तर्क्ष: (कर्मधारयसमास:) तस्मिन् प्रशस्तर्क्षे",
+                                "ग्रीष्मवसन्तयो: - ग्रीष्मश्च वसन्तश्च ग्रीष्मवसन्तौ (द्वन्द्वसमास:) तयो: ग्रीष्मवसन्तयो: ",
+                                "फलपिप्पली: - फलस्य पिप्पली: फलपिप्पल्य: (षष्ठी तत्पुरुषसमास:) ता: फलपिप्पली: ",
+                                "मध्विष्टगन्धानि - इष्ट: गन्ध: यस्य तानि इष्टगन्धानि (बहुव्रीहि समास:) मधुवत् इष्टगन्धानि मध्विष्टगन्धानि (उपमानपूर्वपद कर्मधारयसमास:)",
+                                "कुशवेष्टनात् - कुशेन वेष्टनात् कुशवेष्टनात् (तृतीया तत्पुरुषसमास:)",
+                                "दधिमध्वाज्यपललै: - दधि च मधु च आज्यं च पललं च दधिमध्वाज्यपललानि तै: दधिमध्वाज्यपललै: (द्वन्द्व समास:)",
+                                "सुगुप्तं - सुष्टु गुप्तं सुगुप्तम् (केवल समास:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "नियोगम्, विधानम् , समुच्चयम् (न चातिहरितान्यपि), वाक्यशेषम् (पललैर्मृदित्वा) "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_id": "2",
+            "chapter_heading": "द्वितीयोऽध्याय: । (विरेचनकल्पम्)",
+            "_chapter_heading": "virechanakalpam ",
+            "slogs": [
+                {
+                    "heading": "Introductory sloka2",
+                    "audio_file": "1_1.mp31_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Introductory sloka2",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Introductory sloka2",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_id": "3",
+            "chapter_heading": "तृतीयोऽध्याय: । (वमनविरेचन व्यापत्सिद्धि:)",
+            "_chapter_heading": "vamanavirechana ",
+            "slogs": [
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_id": "4",
+            "chapter_heading": "चतुर्थोऽध्याय: । (बस्तिकल्पम्)",
+            "_chapter_heading": "basthikalpam ",
+            "slogs": [
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_id": "5",
+            "chapter_heading": "पञ्चमोऽध्याय: । (बस्तिव्यापत्सिद्धि:)",
+            "_chapter_heading": "basthikalpam ",
+            "slogs": [
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_id": "6",
+            "chapter_heading": "षष्ठोऽध्याय: । (द्रव्यकल्पम्)",
+            "_chapter_heading": "drishyakalpam ",
+            "slogs": [
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "Introductory sloka",
+                    "audio_file": "1_1.mp3",
+                    "slog": [
+                        "अथातो वमनकल्पं व्याख्यास्याम: ।",
+                        "इति ह स्माहुरात्रेयादयो महर्षय: ।"
+                    ],
+                    "detail": [
+                        {
+                            "title": "अन्वय:",
+                            "explanation": [
+                                "अथ अत: वमनकल्पं व्याख्यास्याम: इति ह आत्रेयादय: महर्षय: आहु: स्म।"
+                            ]
+                        },
+                        {
+                            "title": "भावार्थ:",
+                            "explanation": [
+                                "Henceforth the chapter named vamanakalpa (preparation of recipes for vamana/emesis) is described as being advised by Maharshi Athreya et.al."
+                            ]
+                        },
+                        {
+                            "title": "व्याकरणम् ",
+                            "explanation": []
+                        },
+                        {
+                            "title": "सन्धि:",
+                            "explanation": [
+                                "अथातो - अथ + अत: (सवर्णदीर्घसन्धि:   - अक: सवर्णे दीर्घ:)",
+                                "व्याख्यास्याम: - वि + आख्यास्याम: (यण् सन्धि:   - इको यणचि)",
+                                "स्माहुरात्रेयादयो - स्माहु: + आत्रेयादय: (रेफादेश: - ससजुषो रु:)"
+                            ]
+                        },
+                        {
+                            "title": "समास:",
+                            "explanation": [
+                                "वमनकल्पं - वमनस्य कल्पं (षष्ठी तत्पुरुष)",
+                                "व्याख्यास्याम: - विशेषेण आख्यास्याम: (अव्ययीभाव:)"
+                            ]
+                        },
+                        {
+                            "title": "तन्त्रयुक्ति:",
+                            "explanation": [
+                                "अध्याय अधिकरणम् |"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

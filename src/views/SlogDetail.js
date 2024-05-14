@@ -22,6 +22,7 @@ import {
   Button,
 } from "reactstrap";
 import { Table } from 'reactstrap';
+import parse from 'html-react-parser';
 
 import AudioPlayer from 'react-h5-audio-player';
 import 'react-h5-audio-player/lib/styles.css';
@@ -61,9 +62,10 @@ const BlogData = [
   // },
 ];
 
-const SlogDetail = () => {
-  let { slogId, id } = useParams();
-
+const SlogDetail = (props) => {
+  let { slogId, id } = props;
+  // const SlogDetail = () => {
+  //   let { slogId, id } = useParams();
   useEffect(() => {
     console.log(json)
   }, [])
@@ -92,13 +94,13 @@ const SlogDetail = () => {
             <CardBody className="p-4">
               <CardTitle style={{ fontWeight: '800' }} tag="h5">
                 <div class={"list-dot"}>ghj</div>
-                {json.chapters[slogId].slogs[id].heading}
+                {parse(json.chapters[slogId].slogs[id].heading)}
 
               </CardTitle>
               <Card>
                 <CardBody className="p-4" style={{ textAlign: 'left', boxShadow: '0 0 3px 0 rgb(0 0 0 / 20%)' }}>
                   {json.chapters[slogId].slogs[id].slog.map((item, i) => (
-                    <CardTitle className="mobile-CardTitle" key={i} tag="h4">{item}</CardTitle>
+                    <CardTitle className="mobile-CardTitle" key={i} tag="h4">{parse(item)}</CardTitle>
 
                   ))}
                 </CardBody>
@@ -121,11 +123,11 @@ const SlogDetail = () => {
                   </div> */}
                     <div class="row">
                       <div class="col-lg-2" style={{ fontWeight: 600 }}>
-                        {item.title}
+                        {parse(item.title)}
                       </div>
                       <div class="col-lg-10">
                         {item.explanation.map((exp) => (
-                          <div style={{ textAlign: (item.title === 'अन्वय:' || item.title === 'भावार्थ:') ? 'justify' : '' }}>{exp}</div>
+                          <div style={{ textAlign: (item.title === 'अन्वय:' || item.title === 'भावार्थ:') ? 'justify' : '' }}>{parse(exp)}</div>
                         ))}
                       </div>
                     </div>
