@@ -9,12 +9,12 @@ const About = () => {
         {/* --------------------------------------------------------------------------------*/}
         <Card>
           <CardTitle tag="h6" className="border-bottom p-3 mb-0">
-            <i className="bi bi-bell me-2"> </i>
-            About the author
+            {/* <i className="bi bi-bell me-2"> </i> */}
+            <i class="bi bi-person-fill"></i> About the author
           </CardTitle>
           <CardBody className="p-4">
             <Row justify-content>
-              <Col lg="8">
+              <Col >
                 <h2 className="mt-4">Dr.Braivin Camly</h2>
                 <p style={{textAlign:'justify'}} className=" mb-4">
                 Dr.Braivin Camly is a passionate developer with over a decade of experience in creating innovative mobile applications. With a background in computer science and a keen interest in user experience design, John strives to craft apps that are both functional and visually appealing.

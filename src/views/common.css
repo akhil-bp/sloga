@@ -24,7 +24,9 @@ body{
   background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #eb12dc);
 
 }
-
+.center > h5{
+text-align: center;
+}
 /* button.accordion-button {
   border-top-left-radius: 18px !important;
   border-top-right-radius: 18px !important;

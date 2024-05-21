@@ -76,6 +76,8 @@ const Gallery = () => {
   return (
     <div>
       <Row>
+      <i onClick={() => navigate("/starter")} style={{ fontSize: '30px' }} class="bi bi-arrow-left-short"></i>
+
         <Col sm="12" lg="12" style={{ marginBottom: '10px', textAlign: 'center' }}>
           <CardTitle className="mobile-CardTitle" style={{ textTransform: "capitalize", fontWeight: '800' }} tag="h5">
             ASHTANGA HRIDAYAM KALPASIDDHI STHANAM
@@ -85,12 +87,17 @@ const Gallery = () => {
           </CardTitle>
         </Col>
       </Row>
+
       <Row>
+
+      {/* <i onClick={() => navigate("/starter")} style={{ cursor:'pointer',fontSize:'30px', color:'white' , textAlign:'right'}}  class="bi bi-house"></i> */}
         {jsonData.chapters.map((chapter, i) => (
           <Col key={i} style={{ cursor: 'pointer', padding: '5px' }} xs="6" sm="6" md="4" lg="4" xl="4" xxl="4" onClick={() => navigate("/slog/" + i)}>
             <div class="card card-body" style={{ height: '100%', marginBottom: '0px' }}>
-              <h5 class="card-title">{(i + 1) + '. ' + getStringBetweenParenthese(chapter?.chapter_heading)}</h5>
-              <p class="card-text">{"Total Slokas- " + (chapter.slogs.length + 1)}</p>
+              <h5 style={{textAlign:'center'}}><i class="bi bi-book-half" style={{color:'#a00395'}}></i> </h5>
+              <h5 style={{textAlign:'center'}} class="card-title"> { getStringBetweenParenthese(chapter?.chapter_heading)}</h5>
+              {/* <p class="card-text">{getStringBetweenParenthese(chapter?.chapter_heading)}</p> */}
+              {/* <p class="card-text">{"Total Slokas- " + (chapter.slogs.length + 1)}</p> */}
             </div>
           </Col>
         ))}

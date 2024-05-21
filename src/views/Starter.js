@@ -107,19 +107,19 @@ const Starter = () => {
       <Row>
         <Col style={{ cursor: 'pointer', padding: '5px' }} xs="12" sm="12" md="12" lg="12" xl="12" xxl="12">
           <div onClick={() => navigate("/gallery/")} class="card card-body" style={{ height: '100%', marginBottom: '0px', textAlign:'center' , fontSize:'13px'}}>
-            <h3>Chapters </h3>
+            <h3><i class="bi bi-book-half"></i> Chapters </h3>
             <p style={{margin:'0'}}> {jsonData?.chapters?.length} Chapters</p>
           </div>
         </Col>
         <Col style={{ cursor: 'pointer', padding: '5px' }} xs="12" sm="12" md="12" lg="12" xl="12" xxl="12">
           <div onClick={() => navigate("/gallery/")} class="card card-body" style={{ height: '100%', marginBottom: '0px', textAlign:'center' , fontSize:'13px'}}>
-            <h3>Favorite</h3>
+            <h3><i class="bi bi-heart-fill"></i> Favorite</h3>
             <p style={{margin:'0'}}> {jsonData?.chapters?.length} Chapters</p>
           </div>
         </Col>
         <Col style={{ cursor: 'pointer', padding: '5px' }} xs="12" sm="12" md="12" lg="12" xl="12" xxl="12">
           <div onClick={() => navigate("/about/")} class="card card-body" style={{ height: '100%', marginBottom: '0px', textAlign:'center' , fontSize:'13px'}}>
-            <h3 >About the author</h3>
+            <h3 ><i class="bi bi-person-fill"></i> About the author</h3>
           </div>
         </Col>
       </Row>

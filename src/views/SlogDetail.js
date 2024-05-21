@@ -92,8 +92,9 @@ const SlogDetail = (props) => {
           <Card>
             <CardImg alt="Card image cap" src={'/ayurvedic-remedies-for-cold-cough.png'} />
             <CardBody className="p-4">
-              <CardTitle style={{ fontWeight: '800' }} tag="h5">
-                <div class={"list-dot"}>ghj</div>
+              <CardTitle style={{ fontWeight: '800', textAlign:'center' }} tag="h5">
+                {/* <div class={"list-dot"}>ghj</div> */}
+                
                 {parse(json.chapters[slogId].slogs[id].heading)}
 
               </CardTitle>

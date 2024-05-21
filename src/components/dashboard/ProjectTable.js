@@ -90,9 +90,17 @@ const ProjectTables = (props) => {
     <div>
       <Card>
         <CardBody>
+          <div style={{ display: 'flex', justifyContent: "space-between" }}>
+            <i onClick={() => navigate("/gallery")} style={{ fontSize: '30px' }} class="bi bi-arrow-left-short"></i>
+            <p>
+              {/* <i class="bi bi-heart-fill" style={{ cursor: 'pointer', fontSize: '25px', textAlign: 'right' , marginRight:'10px'}} ></i> */}
+              <i onClick={() => navigate("/starter")} style={{ cursor: 'pointer', fontSize: '25px', textAlign: 'right' }} class="bi bi-house"></i>
+            </p>
+          </div>
+
           <CardTitle tag="h5">{json.chapters[props.id ?? 1].chapter_heading}</CardTitle>
           <CardSubtitle className="mb-2 text-muted" tag="h6">
-            Total slokas  - {json.chapters[props.id ?? 1].slogs.length}
+            Total chapters  - {json.chapters[props.id ?? 1].slogs.length}
           </CardSubtitle>
           <Col sm="12" lg="12" style={{ marginBottom: '10px', textAlign: 'center' }}>
             <FormGroup style={{ padding: '10px 30px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
@@ -111,13 +119,13 @@ const ProjectTables = (props) => {
               {!isOpenAll ?
                 <div
                   onClick={() => { setIsOpenAll(1); setOpen(1); }}
-                  style={{cursor:'pointer', fontSize: '14px', marginLeft: '9px', color: '#2962ff', width: '80px' }}>
+                  style={{ cursor: 'pointer', fontSize: '14px', marginLeft: '9px', color: '#2962ff', width: '80px' }}>
                   Open All
                 </div>
                 :
                 <div
                   onClick={() => { setIsOpenAll(''); setOpen(''); }}
-                  style={{cursor:'pointer', fontSize: '14px', marginLeft: '9px', color: '#2962ff', width: '80px' }}>
+                  style={{ cursor: 'pointer', fontSize: '14px', marginLeft: '9px', color: '#2962ff', width: '80px' }}>
                   Close All
                 </div>
               }
