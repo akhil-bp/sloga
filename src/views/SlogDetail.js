@@ -92,9 +92,9 @@ const SlogDetail = (props) => {
           <Card>
             <CardImg alt="Card image cap" src={'/ayurvedic-remedies-for-cold-cough.png'} />
             <CardBody className="p-4">
-              <CardTitle style={{ fontWeight: '800', textAlign:'center' }} tag="h5">
+              <CardTitle style={{ fontWeight: '800', textAlign: 'center' }} tag="h5">
                 {/* <div class={"list-dot"}>ghj</div> */}
-                
+
                 {parse(json.chapters[slogId].slogs[id].heading)}
 
               </CardTitle>
@@ -105,10 +105,12 @@ const SlogDetail = (props) => {
 
                   ))}
                 </CardBody>
+
                 <AudioPlayer
                   // autoPlay
                   // src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-                  src={"https://slog.s3.ap-southeast-1.amazonaws.com/" + json.chapters[slogId].slogs[id].audio_file}
+                  // src={"https://slog.s3.ap-southeast-1.amazonaws.com/" + json.chapters[slogId].slogs[id].audio_file}
+                  src={"/slogas/" + json.chapters[slogId].slogs[id].audio_file?.split('_')[0] + "/" + json.chapters[slogId].slogs[id].audio_file}
                   onPlay={e => console.log("onPlay")}
                 // other props here
                 />
