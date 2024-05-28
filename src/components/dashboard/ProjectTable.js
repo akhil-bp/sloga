@@ -67,8 +67,10 @@ const ProjectTables = (props) => {
   const toggle = (id) => {
     if (open === id) {
       setOpen();
+      // setIsOpenAll('')
     } else {
       setOpen(id);
+      // setIsOpenAll('')
     }
   };
 
@@ -98,12 +100,12 @@ const ProjectTables = (props) => {
             </p>
           </div>
 
-          <CardTitle tag="h5">{json.chapters[props.id ?? 1].chapter_heading}</CardTitle>
-          <CardSubtitle className="mb-2 text-muted" tag="h6">
-            Total chapters  - {json.chapters[props.id ?? 1].slogs.length}
+          <CardTitle tag="h5" style={{ textAlign: 'center' }}>{json.chapters[props.id ?? 1].chapter_heading}</CardTitle>
+          <CardSubtitle style={{ textAlign: 'center' }} className="mb-2 text-muted" tag="h6">
+            Total headings  - {json.chapters[props.id ?? 1].slogs.length}
           </CardSubtitle>
-          <Col sm="12" lg="12" style={{ marginBottom: '10px', textAlign: 'center' }}>
-            <FormGroup style={{ padding: '10px 30px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <Col sm="12" lg="12" style={{textAlign: 'center' }}>
+            <FormGroup style={{ padding: '10px 30px', alignItems: 'center' }}>
               {/* <Label for="searchfield">
               Date
             </Label> */}
@@ -111,27 +113,30 @@ const ProjectTables = (props) => {
               <Input
                 id="searchfield"
                 name="searchfield"
-                placeholder="Search slokas by number"
+                placeholder="Search by number"
                 style={{ borderRadius: '20px' }}
                 type="text"
                 onChange={(e) => search(e.target.value)}
               />
-              {!isOpenAll ?
-                <div
-                  onClick={() => { setIsOpenAll(1); setOpen(1); }}
-                  style={{ cursor: 'pointer', fontSize: '14px', marginLeft: '9px', color: '#2962ff', width: '80px' }}>
-                  Open All
-                </div>
-                :
-                <div
-                  onClick={() => { setIsOpenAll(''); setOpen(''); }}
-                  style={{ cursor: 'pointer', fontSize: '14px', marginLeft: '9px', color: '#2962ff', width: '80px' }}>
-                  Close All
-                </div>
-              }
+
             </FormGroup>
 
           </Col>
+          {!isOpenAll ?
+            <div
+             
+              style={{ cursor: 'pointer', fontSize: '10px', fontWeight: 'bold',  width: '100%', textAlign: 'right', marginBottom:'10px' }}>
+              {/* Open All */}
+              <i  onClick={() => { setIsOpenAll(1); setOpen(1); }} style={{ cursor: 'pointer', fontSize: '20px', textAlign: 'right',fontWeight: 'bold' }} class="bi bi-arrows-angle-expand"></i>
+            </div>
+            :
+            <div
+              
+              style={{ cursor: 'pointer', fontSize: '10px', fontWeight: 'bold', width: '100%', textAlign: 'right', marginBottom:'10px' }}>
+              {/* Close All */}
+              <i onClick={() => { setIsOpenAll(''); setOpen(''); }} style={{ cursor: 'pointer', fontSize: '20px', textAlign: 'right', fontWeight: 'bold' }} class="bi bi-arrows-angle-contract"></i>
+            </div>
+          }
 
           <Accordion flush open={open} toggle={toggle}>
             {json.chapters[props.id ?? 1].slogs.map((tdata, index) => (
@@ -140,14 +145,16 @@ const ProjectTables = (props) => {
                 <AccordionHeader targetId={isOpenAll ? isOpenAll : index + 1}>
                   <div>
 
-                    <strong style={{ minWidth: '100%' }}><code>
-                      {index + 1 + '. '}
-                    </code> {parse(tdata.heading.split('(')[0])}</strong>
-                    <div style={{ minWidth: '100%' }}> {tdata.heading.split('(')[1] &&
-                      // <h6 className="mb-0 " style={{ fontSize: '14px' }}>( {tdata.heading.split('(')[1]}</h6>
+                    <strong style={{ minWidth: '100%', display: 'flex' }}>
+                      <code style={{ fontSize: '18px' }}>
+                        {index + 1 + '. '}
+                      </code>
+                      {parse(tdata.heading)}</strong>
+                    {/* </code> {parse(tdata.heading.split('(')[0])}</strong> */}
+                    {/* <div style={{ minWidth: '100%' }}> {tdata.heading.split('(')[1] &&
                       <p className="text-muted" style={{ fontSize: '14px', marginTop: '2px', marginBottom: '2px' }}>( {parse(tdata.heading.split('(')[1])}</p>
                     }
-                    </div>
+                    </div> */}
 
                   </div>
 

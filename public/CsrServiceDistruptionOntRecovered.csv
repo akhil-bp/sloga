@@ -1,0 +1,186 @@
+Subscriber Account,Service Address,ONT FSAN,Model Name,Cause,Alarm Report Time,Region,Location,System Name,System Port,Recoverd ONTs,Outage ONTs
+,,CXNK012F1CE7,803G,ont-dying-gasp,2024-01-29T22:49:55+05:30,Default,IT Ring,SVGE_2,1/1/gp2,false,true
+,,CXNK012ED2C5,803G,ont-missing,2024-02-01T21:09:19+05:30,Default,FTTH Ring 2,EWBO_E7_20,1/2/gp2,false,true
+,,CXNK012DD1F2,803G,ont-dying-gasp,2024-03-01T06:34:01+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/9/gp4,false,true
+,,CXNK012DD08F,803G,ont-missing,2023-12-15T01:12:51+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/7/gp3,false,true
+,,CXNK012DCFFF,803G,ont-dying-gasp,2024-01-10T13:11:49+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/5/gp3,false,true
+,,CXNK012DCFEF,803G,ont-missing,2024-02-16T21:27:02+05:30,Default,FTTH Ring 2,STGR2_2,1/1/gp3,false,true
+,,CXNK012DCFC0,803G,ont-missing,2024-02-22T08:16:42+05:30,Default,FTTH Ring 2,STGR_2,1/1/gp2,false,true
+,,CXNK012DCE79,803G,ont-dying-gasp,2024-02-12T05:12:35+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/1/gp3,false,true
+,,CXNK012CE6C8,803G,ont-dying-gasp,2024-02-25T02:54:42+05:30,Default,FTTH Ring 2,PLGR_2,1/1/gp8,false,true
+,,CXNK012CE656,803G,ont-dying-gasp,2024-03-01T17:08:44+05:30,Default,FTTH Ring 3,HNVL-E7-20,1/6/gp6,false,true
+,,CXNK012610AC,GP1100X,ont-missing,2024-02-20T13:20:42+05:30,AXOS_ROOT,Rosinville,RSNV-E72-01,1/1/xp2,false,true
+,,CXNK0116E430,GP1100X,ont-missing,2024-02-20T13:15:36+05:30,AXOS_ROOT,Reevesville,REVV-E72-01,1/1/xp4,false,true
+,,CXNK0116E194,GP1100X,ont-dying-gasp,2024-02-26T03:37:25+05:30,AXOS_ROOT,Cottageville,CTVL-E72-01,1/1/xp1,false,true
+,,CXNK0116DF7D,GP1100X,ont-dying-gasp,2024-03-05T06:05:38+05:30,AXOS_ROOT,Reevesville,REVV-E72-01,1/1/xp2,false,true
+,,CXNK01018E36,711GE,ont-missing,2024-02-22T04:25:17+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/2/gp5,false,true
+,,CXNK00E9EA08,803G,ont-dying-gasp,2023-10-17T22:44:43+05:30,Default,FTTH Ring 3,HNVL-E7-20,1/2/gp4,false,true
+,,CXNK00E9E559,803G,ont-dying-gasp,2024-03-01T00:02:51+05:30,Default,FTTH Ring 2,GBER_2,1/1/gp4,false,true
+,,CXNK00E9E450,803G,ont-missing,2024-02-25T02:57:28+05:30,Default,FTTH Ring 1,ERHT_1,1/1/gp4,false,true
+,,CXNK00E9E3F4,803G,ont-missing,2023-12-14T20:11:05+05:30,Default,FTTH Ring 1,CLPD_1,1/1/gp4,false,true
+,,CXNK00E9B074,803G,ont-missing,2023-06-27T16:55:39+05:30,Default,IT Ring,SVGE,1/2/gp6,false,true
+,,CXNK00E9AF3B,803G,ont-missing,2024-03-02T11:39:38+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/9/gp2,false,true
+,,CXNK00E9AD54,803G,ont-dying-gasp,2024-03-05T12:51:20+05:30,Default,FTTH Ring 1,SXRD_1,1/2/gp4,false,true
+,,CXNK00E9AD39,803G,ont-dying-gasp,2023-12-11T09:49:41+05:30,Default,IT Ring,SVGE,1/2/gp6,false,true
+,,CXNK00E9AAF6,803G,ont-dying-gasp,2023-11-21T01:39:36+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/3/gp4,false,true
+,,CXNK00E160B9,803G,ont-dying-gasp,2023-12-12T06:07:28+05:30,Default,FTTH Ring 2,OLBR_2,1/1/gp6,false,true
+,,CXNK00E16011,803G,ont-missing,2024-01-30T19:00:42+05:30,Default,FTTH Ring 1,HPTN_1,1/1/gp6,false,true
+,,CXNK00E156F5,803G,ont-dying-gasp,2024-02-10T09:15:26+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/5/gp5,false,true
+,,CXNK00E155F4,803G,ont-dying-gasp,2024-01-29T01:18:21+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/9/gp3,false,true
+,,CXNK00E155C7,803G,ont-dying-gasp,2024-01-31T02:22:30+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/3/gp5,false,true
+,,CXNK00E1559C,803G,ont-dying-gasp,2024-03-03T03:56:47+05:30,Default,FTTH Ring 2,GBER_2,1/2/gp2,false,true
+,,CXNK00DF55BE,GP1100X,ont-missing,2024-02-22T14:23:22+05:30,AXOS_ROOT,Bees Creek,BCRK-E72-01,1/2/xp8,false,true
+,,CXNK00DF556E,GP1100X,ont-missing,2024-02-22T14:04:29+05:30,AXOS_ROOT,Bees Creek,BCRK-E72-01,1/1/xp7,false,true
+,,CXNK00DF54B5,GP1100X,ont-missing,2024-02-22T11:06:30+05:30,AXOS_ROOT,Bees Creek,BCRK-E72-02,1/1/xp4,false,true
+,,CXNK00DF541C,GP1100X,ont-missing,2024-02-22T14:23:59+05:30,AXOS_ROOT,Bees Creek,BCRK-E72-01,1/1/xp4,false,true
+,,CXNK00DF53B5,GP1100X,ont-missing,2024-02-22T14:23:17+05:30,AXOS_ROOT,Ridgeland,RDGL-E72-01,1/2/xp3,false,true
+,,CXNK00DF5398,GP1100X,ont-missing,2024-02-22T15:30:28+05:30,AXOS_ROOT,Nixville,NIXV-E72-01,1/1/xp4,false,true
+,,CXNK00DD7023,803G,ont-dying-gasp,2024-01-17T02:16:56+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/8/gp2,false,true
+,,CXNK00DD6513,803G,ont-dying-gasp,2024-02-18T20:47:41+05:30,Default,FTTH Ring 2,HRDG_2,1/1/gp5,false,true
+,,CXNK00DD6494,803G,ont-dying-gasp,2024-01-24T05:14:21+05:30,Default,FTTH Ring 1,LDGE_E7_20,1/3/gp3,false,true
+,,CXNK00D71018,711GE,ont-missing,2023-09-16T02:13:15+05:30,Default,FTTH Ring 1,WLMS_E7_20,1/2/gp8,false,true
+,,CXNK00CFA211,711GE,ont-missing,2023-07-08T06:37:09+05:30,Default,FTTH Ring 2,GBER_2,1/1/gp3,false,true
+,,CXNK00CF31EA,711GE,ont-missing,2024-03-05T07:47:41+05:30,Default,FTTH Ring 2,EWBO_E7_20,1/2/gp4,false,true
+,,CXNK00CBFD4D,803G,ont-dying-gasp,2024-01-09T22:33:36+05:30,Default,FTTH Ring 1,JHVL_1,1/2/gp8,false,true
+,,CXNK00CBFB96,803G,ont-dying-gasp,2024-03-05T10:18:45+05:30,Default,NWBO_E7_20,RVNL_2,1/1/gp4,false,true
+,,CXNK00CBFAFD,803G,ont-dying-gasp,2024-03-04T04:33:46+05:30,Default,IT Ring,BAST,1/2/gp4,false,true
+,,CXNK00CBF905,803G,ont-dying-gasp,2023-08-06T05:10:49+05:30,Default,FTTH Ring 1,CLPD_1,1/1/gp4,false,true
+,,CXNK00CA31E8,803G,ont-dying-gasp,2024-03-05T12:48:54+05:30,Default,FTTH Ring 2,STGR2_2,1/1/gp7,false,true
+,,CXNK00CA312E,803G,ont-missing,2024-02-26T19:02:29+05:30,Default,FTTH Ring 1,HVFW_1,1/1/gp5,false,true
+,,CXNK00CA3121,803G,ont-dying-gasp,2024-03-01T02:40:27+05:30,Default,FTTH Ring 2,PLGR_2,1/2/gp6,false,true
+,,CXNK00CA30C0,803G,ont-dying-gasp,2023-05-17T16:47:33+05:30,Default,FTTH Ring 3,WWBO-E7-20,1/2/gp1,false,true
+,,CXNK00CA1E2B,803G,ont-missing,2024-02-05T03:13:04+05:30,Default,FTTH Ring 1,BMBG_1,1/1/gp7,false,true
+,,CXNK00CA1D54,803G,ont-dying-gasp,2024-02-08T11:29:48+05:30,Default,FTTH Ring 3,CVHL_3,1/1/gp4,false,true
+,,CXNK00CA1C20,803G,ont-dying-gasp,2024-01-09T22:00:04+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/9/gp3,false,true
+,,CXNK00CA1C1D,803G,ont-dying-gasp,2023-11-28T20:46:35+05:30,Default,FTTH Ring 2,HRDG_2,1/1/gp2,false,true
+,,CXNK00CA1C17,803G,ont-dying-gasp,2024-02-03T01:16:18+05:30,Default,FTTH Ring 3,HNVL-E7-20,1/4/gp5,false,true
+,,CXNK00CA1B72,803G,ont-dying-gasp,2024-01-10T13:11:50+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/5/gp5,false,true
+,,CXNK00C90F3E,GP1100X,ont-dying-gasp,2024-03-01T10:02:11+05:30,AXOS_ROOT,Bees Creek,BCRK-E72-01,1/1/xp2,false,true
+,,CXNK00C90D7E,GP1100X,ont-dying-gasp,2024-03-01T18:43:33+05:30,AXOS_ROOT,Bees Creek,BCRK-E72-02,1/1/xp2,false,true
+,,CXNK00C90D63,GP1100X,ont-missing,2024-02-22T14:23:17+05:30,AXOS_ROOT,Ridgeland,RDGL-E72-01,1/2/xp3,false,true
+,,CXNK00C90D5E,GP1100X,ont-missing,2024-02-22T11:06:30+05:30,AXOS_ROOT,Bees Creek,BCRK-E72-02,1/1/xp3,false,true
+,,CXNK00C90AA8,GP1100X,ont-missing,2024-02-22T14:23:22+05:30,AXOS_ROOT,Bees Creek,BCRK-E72-01,1/2/xp8,false,true
+,,CXNK00C90A2F,GP1100X,ont-dying-gasp,2024-03-01T05:32:39+05:30,AXOS_ROOT,Bees Creek,BCRK-E72-01,1/1/xp5,false,true
+,,CXNK00C909D4,GP1100X,ont-missing,2024-02-22T12:07:21+05:30,AXOS_ROOT,Cummings,CMNS-E72-01,1/1/xp3,false,true
+,,CXNK00C50133,GP1100X,ont-dying-gasp,2024-02-29T01:55:49+05:30,AXOS_ROOT,Nixville,NIXV-E72-01,1/1/xp5,false,true
+,,CXNK00C5012E,GP1100X,ont-missing,2024-02-22T15:30:24+05:30,AXOS_ROOT,Nixville,NIXV-E72-01,1/1/xp3,false,true
+,,CXNK00C500DE,GP1100X,ont-missing,2024-03-03T18:32:40+05:30,AXOS_ROOT,Rosinville,RSNV-E72-01,1/1/xp2,false,true
+,,CXNK00C5008A,GP1100X,ont-missing,2024-02-22T11:00:35+05:30,AXOS_ROOT,Nixville,NIXV-E72-02,1/1/xp4,false,true
+,,CXNK00C4FF90,GP1100X,ont-missing,2024-02-22T14:23:59+05:30,AXOS_ROOT,Bees Creek,BCRK-E72-01,1/1/xp4,false,true
+,,CXNK00C31661,GP1100X,ont-dying-gasp,2024-03-05T10:07:05+05:30,AXOS_ROOT,Cottageville,CTVL-E72-01,1/1/xp3,false,true
+,,CXNK00C3151A,GP1100X,ont-missing,2024-02-22T10:56:45+05:30,AXOS_ROOT,Cummings,CMNS-E72-02,1/1/xp1,false,true
+,,CXNK00C31370,GP1100X,ont-dying-gasp,2024-03-05T12:23:43+05:30,AXOS_ROOT,Grays,GRYS-E72-01,1/1/xp4,false,true
+,,CXNK00C3135A,GP1100X,ont-missing,2024-02-27T03:59:07+05:30,AXOS_ROOT,Rosinville,RSNV-E72-01,1/1/xp4,false,true
+,,CXNK00C312F7,GP1100X,ont-dying-gasp,2024-02-22T20:25:02+05:30,AXOS_ROOT,Reevesville,REVV-E72-01,1/1/xp1,false,true
+,,CXNK00C312A4,GP1100X,ont-dying-gasp,2024-03-05T08:58:19+05:30,AXOS_ROOT,Tillman,TLMN-E72-01,1/1/xp8,false,true
+,,CXNK00BF5F14,803G,ont-missing,2024-02-17T19:34:08+05:30,Default,FTTH Ring 1,CLPD_1,1/1/gp5,false,true
+,,CXNK00BF5EFC,803G,ont-dying-gasp,2024-02-14T04:30:27+05:30,Default,FTTH Ring 1,ERHT_1,1/1/gp1,false,true
+,,CXNK00BC4967,803G,ont-dying-gasp,2024-03-02T20:28:41+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/2/gp3,false,true
+,,CXNK00BC478E,803G,ont-dying-gasp,2024-03-05T08:36:32+05:30,Default,FTTH Ring 3,HNVL-E7-20,1/1/gp2,false,true
+,,CXNK00BC4419,803G,ont-dying-gasp,2024-01-09T23:04:21+05:30,Default,FTTH Ring 1,ERHT_1,1/1/gp4,false,true
+,,CXNK00BC4357,803G,ont-dying-gasp,2023-12-04T21:46:18+05:30,Default,FTTH Ring 1,BMBG_1,1/2/gp1,false,true
+,,CXNK00BC4355,803G,ont-missing,2023-11-19T04:03:12+05:30,Default,FTTH Ring 2,OLBR_2,1/1/gp8,false,true
+,,CXNK00BC4187,803G,ont-missing,2023-10-20T22:27:34+05:30,Default,FTTH Ring 2,HRDG_2,1/2/gp8,false,true
+,,CXNK00B999B5,803G,ont-dying-gasp,2024-01-23T20:41:03+05:30,Default,FTTH Ring 2,REVV_2,1/1/gp3,false,true
+,,CXNK00B99977,803G,ont-missing,2023-10-20T19:26:07+05:30,Default,IT Ring,SVGE_2,1/1/gp2,false,true
+,,CXNK00B99963,803G,ont-dying-gasp,2024-03-01T21:47:16+05:30,Default,FTTH Ring 2,REVV_2,1/1/gp4,false,true
+,,CXNK00B99940,803G,ont-dying-gasp,2024-01-31T18:51:22+05:30,Default,FTTH Ring 2,REVV_2,1/1/gp6,false,true
+,,CXNK00B998E5,803G,ont-dying-gasp,2024-03-04T01:01:06+05:30,Default,FTTH Ring 2,REVV_2,1/1/gp7,false,true
+,,CXNK00B996BA,803G,ont-dying-gasp,2023-12-03T00:04:54+05:30,Default,FTTH Ring 2,REVV_2,1/1/gp3,false,true
+,,CXNK00B99684,803G,ont-dying-gasp,2024-03-03T00:49:41+05:30,Default,FTTH Ring 1,ISLT_1,1/2/gp1,false,true
+,,CXNK00B0EEE9,803G,ont-missing,2023-11-30T19:03:42+05:30,Default,FTTH Ring 2,HRDG_2,1/2/gp8,false,true
+,,CXNK00B0EEA7,803G,ont-dying-gasp,2024-01-10T13:11:47+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/6/gp2,false,true
+,,CXNK00B0EE81,803G,ont-dying-gasp,2024-03-05T11:19:27+05:30,Default,FTTH Ring 1,BMBG_1,1/1/gp4,false,true
+,,CXNK00AFEDED,803G,ont-dying-gasp,2024-01-06T16:14:56+05:30,Default,FTTH Ring 3,CVHL_3,1/2/gp4,false,true
+,,CXNK00AFED48,803G,ont-dying-gasp,2024-03-04T04:00:52+05:30,Default,IT Ring,SPRU,1/1/gp2,false,true
+,,CXNK00AFED39,803G,ont-dying-gasp,2024-01-10T13:11:46+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/1/gp6,false,true
+,,CXNK00AFECF5,803G,ont-dying-gasp,2024-01-31T02:22:30+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/7/gp2,false,true
+,,CXNK00AFECE6,803G,ont-dying-gasp,2024-01-15T01:54:55+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/4/gp6,false,true
+,,CXNK00AFEC47,803G,ont-missing,2024-02-14T04:26:05+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/7/gp1,false,true
+,,CXNK00AFEC14,803G,ont-dying-gasp,2024-01-09T22:00:17+05:30,Default,FTTH Ring 2,PLGR_2,1/1/gp8,false,true
+,,CXNK00AFEBA9,803G,ont-dying-gasp,2024-01-28T16:21:35+05:30,Default,NWBO_E7_20,RVNL_2,1/1/gp3,false,true
+,,CXNK00A8B62F,803G,ont-dying-gasp,2024-03-03T23:41:13+05:30,Default,FTTH Ring 2,EWBO_E7_20,1/1/gp2,false,true
+,,CXNK00A8A988,803G,ont-dying-gasp,2024-01-27T07:39:49+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/5/gp8,false,true
+,,CXNK00A8A896,803G,ont-dying-gasp,2024-01-10T13:11:47+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/7/gp7,false,true
+,,CXNK00A88BFE,803G,ont-dying-gasp,2024-02-24T20:22:00+05:30,Default,FTTH Ring 2,GBER_2,1/1/gp6,false,true
+,,CXNK00A7A292,803G,ont-dying-gasp,2024-02-27T21:21:24+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/5/gp5,false,true
+,,CXNK00A79B21,803G,ont-dying-gasp,2024-02-19T05:06:24+05:30,Default,FTTH Ring 2,STGR2_2,1/2/gp2,false,true
+,,CXNK00A72696,803G,ont-dying-gasp,2024-02-05T22:17:23+05:30,Default,FTTH Ring 2,EWBO_E7_20,1/2/gp4,false,true
+,,CXNK00A72626,803G,ont-dying-gasp,2024-01-10T13:11:47+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/1/gp5,false,true
+,,CXNK00A72613,803G,ont-dying-gasp,2023-06-02T05:56:08+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/3/gp1,false,true
+,,CXNK00A725FE,803G,ont-dying-gasp,2024-01-09T22:47:44+05:30,Default,FTTH Ring 1,LDGE_E7_20,1/3/gp3,false,true
+,,CXNK00A7256C,803G,ont-dying-gasp,2024-01-29T21:46:22+05:30,Default,FTTH Ring 1,LDGE_E7_20,1/3/gp3,false,true
+,,CXNK00A72541,803G,ont-dying-gasp,2024-01-10T13:11:46+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/1/gp2,false,true
+,,CXNK00A2DFE9,803G,ont-dying-gasp,2024-01-09T22:33:34+05:30,Default,FTTH Ring 1,WLMS_E7_20,1/1/gp3,false,true
+,,CXNK00A2DFCC,803G,ont-dying-gasp,2023-08-09T09:18:34+05:30,Default,FTTH Ring 1,WLMS_E7_20,1/1/gp3,false,true
+,,CXNK00A2DD2F,803G,ont-dying-gasp,2024-01-20T03:26:28+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/6/gp8,false,true
+,,CXNK00A2DD1F,803G,ont-dying-gasp,2024-01-09T22:33:33+05:30,Default,FTTH Ring 1,JHVL_1,1/2/gp2,false,true
+,,CXNK00A2DBAB,803G,ont-dying-gasp,2024-01-10T13:11:47+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/4/gp8,false,true
+,,CXNK00A2D8F0,803G,ont-dying-gasp,2024-02-05T22:17:03+05:30,Default,FTTH Ring 1,JHVL_1,1/2/gp3,false,true
+,,CXNK00957797,803G,ont-dying-gasp,2024-01-10T13:11:51+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/5/gp8,false,true
+,,CXNK00957737,803G,ont-dying-gasp,2024-01-10T13:11:47+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/6/gp1,false,true
+,,CXNK009576EE,803G,ont-dying-gasp,2024-01-30T19:28:08+05:30,Default,FTTH Ring 3,HNVL-E7-20,1/4/gp1,false,true
+,,CXNK00955EC3,803G,ont-dying-gasp,2024-02-20T21:28:48+05:30,Default,FTTH Ring 1,ISLT_1,1/2/gp3,false,true
+,,CXNK00955EBF,803G,ont-dying-gasp,2024-01-09T22:47:42+05:30,Default,FTTH Ring 1,LDGE_E7_20,1/2/gp5,false,true
+,,CXNK008ED1EF,803G,ont-missing,2023-08-03T03:56:00+05:30,Default,FTTH Ring 2,CDYS_2,1/1/gp5,false,true
+,,CXNK008ED08D,803G,ont-dying-gasp,2024-03-02T19:29:19+05:30,Default,FTTH Ring 2,PLGR_2,1/1/gp6,false,true
+,,CXNK008ED06D,803G,ont-dying-gasp,2023-10-15T13:15:43+05:30,Default,FTTH Ring 1,WLMS_E7_20,1/2/gp2,false,true
+,,CXNK008ECF13,803G,ont-dying-gasp,2024-01-30T20:44:41+05:30,Default,FTTH Ring 1,WLMS_E7_20,1/2/gp2,false,true
+,,CXNK0089427F,803G,ont-missing,2023-12-07T10:48:06+05:30,Default,FTTH Ring 2,STGR_2,1/1/gp4,false,true
+,,CXNK00894085,803G,ont-dying-gasp,2024-01-29T23:54:08+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/3/gp5,false,true
+,,CXNK00893F5D,803G,ont-dying-gasp,2024-03-04T08:23:57+05:30,Default,FTTH Ring 1,EBCH_1,1/2/gp1,false,true
+,,CXNK0083E4E9,803G,ont-dying-gasp,2024-02-26T13:22:23+05:30,Default,FTTH Ring 3,SWBO2_3,1/2/gp1,false,true
+,,CXNK0083E475,803G,ont-dying-gasp,2024-01-30T06:33:54+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/4/gp2,false,true
+,,CXNK007D9E02,803G,ont-dying-gasp,2024-02-05T22:16:47+05:30,Default,FTTH Ring 3,SWBO2_3,1/1/gp4,false,true
+,,CXNK0073B14D,803G,ont-dying-gasp,2024-02-23T01:31:40+05:30,Default,IT Ring,SVGE,1/2/gp5,false,true
+,,CXNK00660445,803G,ont-missing,2024-01-31T05:27:07+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/7/gp3,false,true
+,,CXNK005A75C4,803G,ont-dying-gasp,2024-01-10T13:11:47+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/3/gp1,false,true
+,,CXNK005A75B7,803G,ont-missing,2023-10-13T19:35:02+05:30,Default,IT Ring,WLBO,1/2/gp8,false,true
+,,CXNK005A72A7,803G,ont-dying-gasp,2024-03-02T16:50:22+05:30,Default,FTTH Ring 2,CDYS_2,1/1/gp4,false,true
+,,CXNK005A3B46,803G,ont-dying-gasp,2024-01-10T13:11:48+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/5/gp1,false,true
+,,CXNK005A3A77,803G,ont-missing,2023-12-07T10:50:06+05:30,Default,FTTH Ring 2,STGR_2,1/2/gp6,false,true
+,,CXNK0057C46B,844G-1,ont-dying-gasp,2024-03-05T07:55:31+05:30,Default,FTTH Ring 1,ISLT_1,1/1/gp1,false,true
+,,CXNK0055BC0D,717GE,ont-missing,2023-07-31T06:35:19+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/8/gp2,false,true
+,,CXNK0050FD40,803G,ont-dying-gasp,2024-03-05T08:40:35+05:30,Default,FTTH Ring 3,HNVL-E7-20,1/3/gp5,false,true
+,,CXNK004EC992,711GE,ont-missing,2024-02-21T10:55:37+05:30,Default,FTTH Ring 1,ISLT_1,1/1/gp5,false,true
+,,CXNK004EC323,711GE,ont-missing,2024-01-10T03:44:36+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/3/gp5,false,true
+,,CXNK004EC318,711GE,ont-missing,2024-01-06T19:48:22+05:30,Default,FTTH Ring 1,LDGE_E7_20,1/1/gp8,false,true
+,,CXNK004EAF2F,711GE,ont-missing,2023-06-12T14:06:50+05:30,Default,FTTH Ring 3,SWBO_3,1/2/gp8,false,true
+,,CXNK004EAF1F,711GE,ont-missing,2024-03-05T12:57:08+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/3/gp2,false,true
+,,CXNK004EAE5E,711GE,ont-missing,2024-01-11T15:37:52+05:30,Default,FTTH Ring 2,GBER_2,1/2/gp8,false,true
+,,CXNK004EA942,711GE,ont-missing,2023-12-02T10:03:01+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/3/gp1,false,true
+,,CXNK004EA916,711GE,ont-missing,2023-10-20T03:32:16+05:30,Default,FTTH Ring 2,,,false,true
+,,CXNK004EA904,711GE,ont-dying-gasp,2024-01-11T03:29:14+05:30,Default,FTTH Ring 1,LDGE_E7_20,1/1/gp6,false,true
+,,CXNK004E931F,711GE,ont-missing,2024-01-13T03:30:49+05:30,Default,FTTH Ring 3,SWBO_3,1/2/gp2,false,true
+,,CXNK004E8315,711GE,ont-missing,2024-01-09T22:11:02+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/3/gp6,false,true
+,,CXNK004E3D86,711GE,ont-missing,2023-09-17T08:19:31+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/6/gp1,false,true
+,,CXNK004B809B,844G-1,ont-missing,2024-02-02T04:19:59+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/7/gp6,false,true
+,,CXNK004B7B91,844G-1,ont-dying-gasp,2024-03-05T09:02:59+05:30,Default,FTTH Ring 1,DRCK_E7_20,1/2/gp5,false,true
+,,CXNK004AC095,803G,ont-missing,2023-09-21T04:55:04+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/7/gp5,false,true
+,,CXNK004709FF,711GE,ont-missing,2024-02-16T06:03:22+05:30,Default,FTTH Ring 1,DRCK_E7_20,1/1/gp6,false,true
+,,CXNK004000D3,711GE,ont-missing,2024-01-27T11:24:50+05:30,Default,FTTH Ring 2,EWBO_E7_20,1/2/gp3,false,true
+,,CXNK003FC21F,711GE,ont-missing,2024-01-09T22:51:40+05:30,Default,FTTH Ring 1,LDGE_E7_20,1/2/gp3,false,true
+,,CXNK003FB888,711GE,ont-missing,2024-01-09T22:40:47+05:30,Default,FTTH Ring 1,JHVL_1,1/1/gp2,false,true
+,,CXNK003ED6EE,717GE,ont-missing,2024-01-20T20:45:56+05:30,Default,FTTH Ring 3,WWBO-E7-20,1/1/gp2,false,true
+,,CXNK003A5ED3,711GE,ont-missing,2023-10-18T00:19:25+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/1/gp6,false,true
+,,CXNK003A5B63,711GE,ont-missing,2024-03-02T13:28:19+05:30,Default,FTTH Ring 1,LDGE_E7_20,1/2/gp6,false,true
+,,CXNK003A5789,711GE,ont-missing,2023-10-31T22:02:44+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/7/gp2,false,true
+,,CXNK00395094,711GE,ont-missing,2024-01-13T10:07:08+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/6/gp8,false,true
+,,CXNK003907F0,711GE,ont-missing,2024-02-18T17:03:27+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/4/gp4,false,true
+,,CXNK0032AD76,711GE,ont-missing,2023-11-15T21:24:27+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/4/gp4,false,true
+,,CXNK002EE5EE,711GE,ont-missing,2024-02-13T09:37:23+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/3/gp2,false,true
+,,CXNK002EDFF8,711GE,ont-missing,2024-02-06T23:32:22+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/1/gp4,false,true
+,,CXNK002ED5F1,711GE,ont-missing,2024-01-05T21:51:23+05:30,Default,NWBO_E7_20,NWBO_E7_20,1/3/gp7,false,true
+,,CXNK002ECFAB,711GE,ont-missing,2023-07-23T10:37:07+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/1/gp1,false,true
+,,CXNK002EC030,711GE,ont-missing,2024-02-05T17:23:18+05:30,Default,FTTH Ring 2,PLGR_2,1/1/gp3,false,true
+,,CXNK002EBC77,711GE,ont-missing,2024-01-09T22:06:42+05:30,Default,FTTH Ring 2,PLGR_2,1/2/gp2,false,true
+,,CXNK002EB48A,711GE,ont-missing,2023-12-16T03:59:57+05:30,Default,FTTH Ring 1,LDGE_E7_20,1/1/gp6,false,true
+,,CXNK002EA8BB,711GE,ont-missing,2023-12-16T04:08:11+05:30,Default,FTTH Ring 2,BEDO_2,1/1/gp3,false,true
+,,CXNK002E9E6B,711GE,ont-missing,2024-03-04T22:14:56+05:30,Default,FTTH Ring 2,GBER_2,1/1/gp3,false,true
+,,CXNK002E9117,711GE,ont-missing,2024-02-25T21:51:32+05:30,Default,FTTH Ring 1,BRTE_1,1/2/gp2,false,true
+,,CXNK002C8A0D,711GE,ont-missing,2024-01-24T10:30:54+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/3/gp8,false,true
+,,CXNK002508AF,711GE,ont-missing,2024-03-05T14:13:12+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/2/gp7,false,true
+,,CXNK00231A23,711GE,ont-missing,2024-01-10T03:43:04+05:30,Default,FTTH Ring 2,CTVL_E7_20,1/3/gp7,false,true
+,,CXNK0022C803,711GE,ont-missing,2024-02-19T13:54:26+05:30,Default,FTTH Ring 2,BEDO_2,1/1/gp6,false,true
+92551165802,"641 LAGOON DR, WALTERBORO, SC 294886034,USA",CXNK002EFBC0,711GE,ont-missing,2024-03-05T14:31:22+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/4/gp2,true,false
+92270000137,"Winchester,WALTERBORO,SC 29488",CXNK0093CD9B,711GE,ont-missing,2024-03-05T14:31:22+05:30,Default,FTTH Ring 3,BRBK-E7-20,1/4/gp2,true,false

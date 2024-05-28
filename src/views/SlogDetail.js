@@ -90,14 +90,13 @@ const SlogDetail = (props) => {
         <Col sm="12" lg="12" xl="12">
 
           <Card>
-            <CardImg alt="Card image cap" src={'/ayurvedic-remedies-for-cold-cough.png'} />
             <CardBody className="p-4">
-              <CardTitle style={{ fontWeight: '800', textAlign: 'center' }} tag="h5">
-                {/* <div class={"list-dot"}>ghj</div> */}
+            <CardImg alt="Card image cap" src={'/ayurvedic-remedies-for-cold-cough.png'} />
+              {/* <CardTitle style={{ fontWeight: '800', textAlign: 'center' }} tag="h5">
 
                 {parse(json.chapters[slogId].slogs[id].heading)}
 
-              </CardTitle>
+              </CardTitle> */}
               <Card>
                 <CardBody className="p-4" style={{ textAlign: 'left', boxShadow: '0 0 3px 0 rgb(0 0 0 / 20%)' }}>
                   {json.chapters[slogId].slogs[id].slog.map((item, i) => (
@@ -130,7 +129,8 @@ const SlogDetail = (props) => {
                       </div>
                       <div class="col-lg-10">
                         {item.explanation.map((exp) => (
-                          <div style={{ textAlign: (item.title === 'अन्वय:' || item.title === 'भावार्थ:') ? 'justify' : '' }}>{parse(exp)}</div>
+                          // <div style={{ textAlign: (item.title === 'अन्वय:' || item.title === 'भावार्थ:') ? 'justify' : '' }}>{parse(exp)}</div>
+                          <div style={{ textAlign:  'justify' }}>{parse(exp)}</div>
                         ))}
                       </div>
                     </div>
